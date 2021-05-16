@@ -4,7 +4,7 @@
        $Numbe r= $_Post['number'];
      $message = $_Post['message'];
 
-$email_from = 'panchal@pathinsulation.com';
+$email_from = 'hct36679@zwoho.com';
     $email_subject = "New Form";
 $email_body = "User Name: $name.\n 
                 User Email: $Email.\n
